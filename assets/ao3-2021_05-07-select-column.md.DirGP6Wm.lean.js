@@ -1,4 +1,4 @@
-import{_ as d,c as h,m as t,b as e,w as n,K as i,V as a,o as s,a as l}from"./chunks/framework.DZLj5U16.js";const T=JSON.parse('{"title":"Columns, N/A Values, and Simple Data Cleaning","description":"","frontmatter":{},"headers":[],"relativePath":"ao3-2021/05-07-select-column.md","filePath":"ao3-2021/05-07-select-column.md"}'),p={name:"ao3-2021/05-07-select-column.md"},o=a("",29),r=t("pre",null,[t("code",null,`.dataframe tbody tr th {
+import{_ as d,c as h,m as t,b as e,w as n,K as i,V as a,o as s,a as l}from"./chunks/framework.DZLj5U16.js";const T=JSON.parse('{"title":"Columns, N/A Values, and Simple Data Cleaning","description":"","frontmatter":{},"headers":[],"relativePath":"ao3-2021/05-07-select-column.md","filePath":"ao3-2021/05-07-select-column.md"}'),p={name:"ao3-2021/05-07-select-column.md"},o=a("",30),r=t("pre",null,[t("code",null,`.dataframe tbody tr th {
     vertical-align: top;
 }
 
